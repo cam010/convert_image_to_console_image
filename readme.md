@@ -1,0 +1,2 @@
+This project converts a given image into black and white, then prints it to the console using text characters.
+It determines whether a pixel should be black or white by calculating the sum of its RGB values, and determining whether it is closer to 255, 255, 255 (white) or 0, 0, 0 (black)
